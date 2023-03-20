@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "834542752135",
+    "project_id": "phone-p-312802",
+    "storage_bucket": "phone-p-312802.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834542752135:android:c4b0a1f4592f5ec5318322",
+        "android_client_info": {
+          "package_name": "com.panchayat.online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834542752135-ipisrrv1bfti62vtmprfh75f4mcr9ra8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.panchayat.online",
+            "certificate_hash": "d86741798cdf9610647c4a8ef90226549c0dfb28"
+          }
+        },
+        {
+          "client_id": "834542752135-ct5s9vavc02ekefu7nqsuqmenmcn864t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhQtUAAaMyp63hKPrOnGbKdnCxol97ZL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834542752135-ct5s9vavc02ekefu7nqsuqmenmcn864t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
